@@ -1,0 +1,12 @@
+{
+  "name": "metaserialport",
+  "version": "1.0.0",
+  "description": "require serialport-1 or serialport-2",
+  "main": "index.js",
+  "author": "Aria Stewart <aredridel@dinhe.net>",
+  "license": "ISC",
+  "optionalDependencies": {
+    "serialport-2": "^1.0.1",
+    "serialport-1": "^1.0.1"
+  }
+}
